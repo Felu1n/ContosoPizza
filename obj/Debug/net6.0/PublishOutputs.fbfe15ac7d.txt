@@ -1,0 +1,11 @@
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\ContosoPizza.exe
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\ContosoPizza.dll
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\ContosoPizza.deps.json
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\ContosoPizza.runtimeconfig.json
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\ContosoPizza.pdb
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amira\Desktop\ContosoPizza\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
